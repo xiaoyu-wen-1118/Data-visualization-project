@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- template -->
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Xiaoyu Wen">
+    <meta name="keywords" content="Satellite">
+    <!-- File title -->
+    <title>Satellite</title>
+    <!-- call CSS file -->
+    <link rel="stylesheet" href="satellite.css">
+</head>
+<body>
+    <div id = 'header'>
+        <h1 id="title">
+            All Satellites in Orbit
+        </h1>
+        <p id="text">
+            This dashboard lists all the active and inactive satellites and sensors that are currently in earth's orbit.
+        </p>
+    </div>
+
+
+    <div id="charts">
+        <!-- button division, four scenes -->
+        <div id="btn-msg">
+            <button class="button-15" role="button" onclick="showDefault()">Default View</button>
+            <button class="button-15" role="button" onclick="showCountry()">Country</button>
+            <button class="button-15" role="button" onclick="showType()">Orbit Type</button>
+            <button class="button-15" role="button" onclick="showStatus()">Status</button>
+        </div>
+        <!-- Plot division -->
+        <div id="plotdiv"></div>
+    </div>
+    <!-- call d3.js script -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <!-- call js script -->
+    <script src="satellite.js"></script>
+</body>
+</html>

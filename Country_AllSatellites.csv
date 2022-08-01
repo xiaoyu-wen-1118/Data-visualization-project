@@ -1,0 +1,319 @@
+,OrbitType,OrbitHeight,Launchedin,Outofservicesince,Organisation,Country
+0,Sun Synchronous,694,2011,??,Airbus Defence and Space,EU
+1,Sun Synchronous,694,2012,??,Airbus Defence and Space,EU
+2,Sun Synchronous,694,2012,??,Airbus Defence and Space,EU
+3,Sun Synchronous,680,2013,??,Airbus Defence and Space,EU
+4,Sun Synchronous,694,2014,??,Airbus Defence and Space,EU
+5,Sun Synchronous,583,2018,??,Airbus Defence and Space,EU
+6,Sun Synchronous,620,2021,??,Airbus Defence and Space,EU
+7,Sun Synchronous,620,2021,??,Airbus Defence and Space,EU
+8,Sun Synchronous,620,2022,??,Airbus Defence and Space,EU
+9,Sun Synchronous,620,2022,??,Airbus Defence and Space,EU
+10,Sun Synchronous,686,2002,2010,ASAL - Algeria,Other
+11,Sun Synchronous,686,2010,??,ASAL - Algeria,Other
+12,Sun Synchronous,670,2016,??,ASAL - Algeria,Other
+13,Sun Synchronous,680,2016,??,ASAL - Algeria,Other
+14,Sun Synchronous,620,2007,??,ASI - Italy,EU
+15,Sun Synchronous,615,2019,??,ASI - Italy,EU
+16,Sun Synchronous,619,2019,??,ASI - Italy,EU
+17,Sun Synchronous,619,2022,??,ASI - Italy,EU
+18,Other,685,2009,??,ATSB - Malaysia,Other
+19,Sun Synchronous,500,2018,??,BlackSky - USA,USA
+20,Sun Synchronous,500,2018,??,BlackSky - USA,USA
+21,Sun Synchronous,500,2019,??,BlackSky - USA,USA
+22,Sun Synchronous,500,2019,??,BlackSky - USA,USA
+23,Sun Synchronous,500,2020,??,BlackSky - USA,USA
+24,Other,798,2007,2016,CAST - China,China
+25,Sun Synchronous,649,2008,??,CAST - China,China
+26,Geostationary,35786,2016,??,CMA - China,China
+27,Sun Synchronous,832,1986,2003,CNES - France,EU
+28,Sun Synchronous,832,1990,2009,CNES - France,EU
+29,Sun Synchronous,832,1993,1996,CNES - France,EU
+30,Sun Synchronous,832,1998,2013,CNES - France,EU
+31,Sun Synchronous,832,2002,2015,CNES - France,EU
+32,Sun Synchronous,705,2004,2013,CNES - France,EU
+33,Sun Synchronous,715,2004,2010,CNES - France,EU
+34,Sun Synchronous,867,2011,??,CNES - France,EU
+35,Sun Synchronous,800,2013,??,CNES - France,EU
+36,Sun Synchronous,720,2017,??,CNES - France,EU
+37,Sun Synchronous,676,2020,2020,CNES - France,EU
+38,Sun Synchronous,519,2018,??,CNSA - China,China
+39,Sun Synchronous,705,2000,2013,CONAE - Argentina,Other
+40,Sun Synchronous,620,2018,??,CONAE - Argentina,Other
+41,Sun Synchronous,620,2020,??,CONAE - Argentina,Other
+42,Sun Synchronous,798,1995,2013,CSA - Canadian Space Agency,Canada
+43,Circular,650,2003,??,CSA - Canadian Space Agency,Canada
+44,Sun Synchronous,600,2019,??,CSA - Canadian Space Agency,Canada
+45,Sun Synchronous,803,2002,2007,CSIRO - Australia,Other
+46,Sun Synchronous,572,2001,2006,DLR - Germany,EU
+47,Sun Synchronous,514,2007,??,DLR - Germany,EU
+48,Other,515,2010,??,DLR - Germany,EU
+49,Sun Synchronous,652,2022,??,DLR - Germany,EU
+50,Sun Synchronous,506,2024,??,DLR - Germany,EU
+51,Sun Synchronous,760,2024,??,DLR - Germany,EU
+52,Sun Synchronous,505,2018,??,earth-i,UK
+53,Sun Synchronous,500,2023,??,earth-i,UK
+54,Sun Synchronous,785,1991,2000,ESA,EU
+55,Sun Synchronous,785,1995,2011,ESA,EU
+56,Sun Synchronous,615,2001,??,ESA,EU
+57,Sun Synchronous,783,2002,2012,ESA,EU
+58,Sun Synchronous,235,2009,2013,ESA,EU
+59,Sun Synchronous,758,2009,??,ESA,EU
+60,Non Sun Synchronous,717,2010,??,ESA,EU
+61,Near polar,530,2013,??,ESA,EU
+62,Sun Synchronous,820,2013,2021,ESA,EU
+63,Sun Synchronous,693,2014,??,ESA,EU
+64,Sun Synchronous,786,2015,??,ESA,EU
+65,Sun Synchronous,693,2016,??,ESA,EU
+66,Sun Synchronous,814,2016,??,ESA,EU
+67,Sun Synchronous,786,2017,??,ESA,EU
+68,Sun Synchronous,824,2017,??,ESA,EU
+69,Sun Synchronous,320,2018,??,ESA,EU
+70,Sun Synchronous,814,2018,??,ESA,EU
+71,Sun Synchronous,693,2022,??,ESA,EU
+72,Sun Synchronous,393,2023,??,ESA,EU
+73,Sun Synchronous,660,2023,??,ESA,EU
+74,Sun Synchronous,693,2023,??,ESA,EU
+75,Sun Synchronous,814,2023,??,ESA,EU
+76,Sun Synchronous,786,2024,??,ESA,EU
+77,Sun Synchronous,815,2024,??,ESA,EU
+78,Sun Synchronous,786,2025,??,ESA,EU
+79,Sun Synchronous,814,2025,??,ESA,EU
+80,Geostationary,35786,1991,2007,EUMETSAT,EU
+81,Geostationary,35786,1993,2011,EUMETSAT,EU
+82,Geostationary,36000,1997,2017,EUMETSAT,EU
+83,Geostationary,36000,2002,??,EUMETSAT,EU
+84,Geostationary,36000,2005,??,EUMETSAT,EU
+85,Sun Synchronous,817,2006,2021,EUMETSAT,EU
+86,Sun Synchronous,817,2012,??,EUMETSAT,EU
+87,Geostationary,36000,2012,??,EUMETSAT,EU
+88,Geostationary,36000,2015,??,EUMETSAT,EU
+89,Sun Synchronous,817,2018,??,EUMETSAT,EU
+90,Non Sun Synchronous,1336,2020,??,EUMETSAT,EU
+91,Geostationary,35786,2022,??,EUMETSAT,EU
+92,Sun Synchronous,817,2024,??,EUMETSAT,EU
+93,Geostationary,35786,2024,??,EUMETSAT,EU
+94,Sun Synchronous,817,2025,??,EUMETSAT,EU
+95,Geostationary,35786,2025,??,EUMETSAT,EU
+96,Non Sun Synchronous,1336,2026,??,EUMETSAT,EU
+97,Sun Synchronous,817,2031,??,EUMETSAT,EU
+98,Sun Synchronous,817,2032,??,EUMETSAT,EU
+99,Geostationary,35786,2032,??,EUMETSAT,EU
+100,Geostationary,35786,2034,??,EUMETSAT,EU
+101,Sun Synchronous,817,2036,??,EUMETSAT,EU
+102,Sun Synchronous,817,2039,??,EUMETSAT,EU
+103,Geostationary,35786,2042,??,EUMETSAT,EU
+104,Sun Synchronous,650,2009,??,GEOSAT - Spain,EU
+105,Sun Synchronous,620,2014,??,GEOSAT - Spain,EU
+106,Sun Synchronous,822,2008,??,GISTDA - Thailand,Other
+107,Other,800,2008,??,IAI - Israel,Other
+108,Sun Synchronous,505,2018,2018,ICEYE - Finland,EU
+109,Sun Synchronous,590,2018,??,ICEYE - Finland,EU
+110,Sun Synchronous,565,2019,??,ICEYE - Finland,EU
+111,Sun Synchronous,590,2019,??,ICEYE - Finland,EU
+112,Sun Synchronous,530,2000,2016,ImageSAT International,Other
+113,Sun Synchronous,520,2006,??,ImageSAT International,Other
+114,Sun Synchronous,510,2019,??,ImageSAT International,Other
+115,Sun Synchronous,778,1999,2003,INPE - Brazil,Other
+116,Sun Synchronous,778,2003,2009,INPE - Brazil,Other
+117,Sun Synchronous,778,2013,2013,INPE - Brazil,Other
+118,Sun Synchronous,778,2014,??,INPE - Brazil,Other
+119,Sun Synchronous,628,2019,??,INPE - Brazil,Other
+120,Sun Synchronous,904,1988,1995,ISRO - India,India
+121,Sun Synchronous,904,1991,2003,ISRO - India,India
+122,Sun Synchronous,817,1994,1997,ISRO - India,India
+123,Sun Synchronous,817,1995,2007,ISRO - India,India
+124,Sun Synchronous,817,1996,2006,ISRO - India,India
+125,Sun Synchronous,824,1997,2010,ISRO - India,India
+126,Sun Synchronous,720,1999,2010,ISRO - India,India
+127,Sun Synchronous,817,2003,2013,ISRO - India,India
+128,Sun Synchronous,618,2005,2019,ISRO - India,India
+129,Sun Synchronous,635,2007,2019,ISRO - India,India
+130,Sun Synchronous,635,2008,??,ISRO - India,India
+131,Sun Synchronous,635,2008,??,ISRO - India,India
+132,Sun Synchronous,550,2009,??,ISRO - India,India
+133,Sun Synchronous,720,2009,??,ISRO - India,India
+134,Sun Synchronous,637,2010,??,ISRO - India,India
+135,Sun Synchronous,817,2011,??,ISRO - India,India
+136,Sun Synchronous,536,2012,2017,ISRO - India,India
+137,Geostationary,35786,2013,??,ISRO - India,India
+138,Sun Synchronous,505,2016,??,ISRO - India,India
+139,Sun Synchronous,720,2016,??,ISRO - India,India
+140,Sun Synchronous,817,2016,??,ISRO - India,India
+141,Sun Synchronous,505,2017,??,ISRO - India,India
+142,Sun Synchronous,505,2017,??,ISRO - India,India
+143,Sun Synchronous,505,2018,??,ISRO - India,India
+144,Sun Synchronous,636,2018,??,ISRO - India,India
+145,Sun Synchronous,440,2019,??,ISRO - India,India
+146,Sun Synchronous,509,2019,??,ISRO - India,India
+147,Geostationary,35786,2021,2021,ISRO - India,India
+148,Sun Synchronous,529,2022,??,ISRO - India,India
+149,Sun Synchronous,720,2022,??,ISRO - India,India
+150,Geostationary,35786,2022,??,ISRO - India,India
+151,Sun Synchronous,909,1987,1995,JAXA - Japan,Japan
+152,Sun Synchronous,909,1990,1996,JAXA - Japan,Japan
+153,Sun Synchronous,568,1992,1998,JAXA - Japan,Japan
+154,Sun Synchronous,797,1996,1997,JAXA - Japan,Japan
+155,Sun Synchronous,803,2002,2003,JAXA - Japan,Japan
+156,Sun Synchronous,702,2006,2011,JAXA - Japan,Japan
+157,Sun Synchronous,666,2009,??,JAXA - Japan,Japan
+158,Sun Synchronous,700,2012,??,JAXA - Japan,Japan
+159,Sun Synchronous,628,2014,??,JAXA - Japan,Japan
+160,Sun Synchronous,798,2017,??,JAXA - Japan,Japan
+161,Sun Synchronous,613,2018,??,JAXA - Japan,Japan
+162,Sun Synchronous,628,2022,??,JAXA - Japan,Japan
+163,Sun Synchronous,669,2022,??,JAXA - Japan,Japan
+164,Geostationary,35800,2005,2010,JMA - Japan,Japan
+165,Geostationary,35800,2006,2016,JMA - Japan,Japan
+166,Geostationary,35800,2014,??,JMA - Japan,Japan
+167,Geostationary,35800,2016,??,JMA - Japan,Japan
+168,Sun Synchronous,504,2014,??,J-spacesystems - Japan,Japan
+169,Sun Synchronous,504,2018,??,J-spacesystems - Japan,Japan
+170,Sun Synchronous,685,1999,2007,KARI - Korea,Korea
+171,Sun Synchronous,685,2006,2015,KARI - Korea,Korea
+172,Geostationary,35786,2010,??,KARI - Korea,Korea
+173,Sun Synchronous,685,2012,??,KARI - Korea,Korea
+174,Sun Synchronous,550,2013,??,KARI - Korea,Korea
+175,Sun Synchronous,528,2015,??,KARI - Korea,Korea
+176,Geostationary,35786,2018,??,KARI - Korea,Korea
+177,Geostationary,35786,2020,??,KARI - Korea,Korea
+178,Sun Synchronous,505,2022,??,KARI - Korea,Korea
+179,Sun Synchronous,685,2022,??,KARI - Korea,Korea
+180,Sun Synchronous,625,2007,??,LAPAN - Indonesia,Other
+181,Sun Synchronous,681,1999,2015,Maxar/DigitalGlobe - USA,USA
+182,Sun Synchronous,450,2001,2015,Maxar/DigitalGlobe - USA,USA
+183,Sun Synchronous,496,2007,??,Maxar/DigitalGlobe - USA,USA
+184,Sun Synchronous,681,2008,??,Maxar/DigitalGlobe - USA,USA
+185,Sun Synchronous,770,2009,??,Maxar/DigitalGlobe - USA,USA
+186,Sun Synchronous,617,2014,??,Maxar/DigitalGlobe - USA,USA
+187,Sun Synchronous,617,2016,2019,Maxar/DigitalGlobe - USA,USA
+188,Other,450,2022,??,Maxar/DigitalGlobe - USA,USA
+189,Sun Synchronous,798,2007,??,MDA - Canada,Canada
+190,Sun Synchronous,907,1972,1978,NASA - USA,USA
+191,Sun Synchronous,908,1975,1982,NASA - USA,USA
+192,Sun Synchronous,800,1978,1978,NASA - USA,USA
+193,Sun Synchronous,915,1978,1983,NASA - USA,USA
+194,Sun Synchronous,955,1978,1994,NASA - USA,USA
+195,Sun Synchronous,705,1982,2001,NASA - USA,USA
+196,Sun Synchronous,705,1984,2013,NASA - USA,USA
+197,Non Sun Synchronous,470,1991,2005,NASA - USA,USA
+198,Non Sun Synchronous,1336,1992,2005,NASA - USA,USA
+199,Sun Synchronous,740,1996,2005,NASA - USA,USA
+200,Non Sun Synchronous,350,1997,2015,NASA - USA,USA
+201,Sun Synchronous,705,1999,??,NASA - USA,USA
+202,Sun Synchronous,705,1999,??,NASA - USA,USA
+203,Sun Synchronous,803,1999,2018,NASA - USA,USA
+204,Other,233,2000,2000,NASA - USA,USA
+205,Sun Synchronous,705,2000,2017,NASA - USA,USA
+206,Non Sun Synchronous,625,2001,??,NASA - USA,USA
+207,Non Sun Synchronous,1337,2001,2013,NASA - USA,USA
+208,Near polar,437,2002,2017,NASA - USA,USA
+209,Sun Synchronous,705,2002,??,NASA - USA,USA
+210,Near polar,600,2003,2010,NASA - USA,USA
+211,Circular,645,2003,2020,NASA - USA,USA
+212,Sun Synchronous,705,2004,??,NASA - USA,USA
+213,Sun Synchronous,705,2006,??,NASA - USA,USA
+214,Sun Synchronous,705,2006,2020,NASA - USA,USA
+215,Sun Synchronous,657,2011,2015,NASA - USA,USA
+216,Sun Synchronous,705,2011,2011,NASA - USA,USA
+217,Sun Synchronous,705,2013,??,NASA - USA,USA
+218,Non Sun Synchronous,407,2014,??,NASA - USA,USA
+219,Sun Synchronous,705,2014,??,NASA - USA,USA
+220,Sun Synchronous,685,2015,??,NASA - USA,USA
+221,Non Sun Synchronous,500,2016,??,NASA - USA,USA
+222,Other,408,2018,??,NASA - USA,USA
+223,Near polar,490,2018,??,NASA - USA,USA
+224,Near polar,498,2018,??,NASA - USA,USA
+225,Other,407,2019,??,NASA - USA,USA
+226,Sun Synchronous,705,2021,??,NASA - USA,USA
+227,Circular,891,2022,??,NASA - USA,USA
+228,Geostationary,35786,2022,??,NASA - USA,USA
+229,Sun Synchronous,676,2023,??,NASA - USA,USA
+230,Sun Synchronous,686,2003,2012,NASRDA - Nigeria,Other
+231,Sun Synchronous,700,2011,??,NASRDA - Nigeria,Other
+232,Sun Synchronous,700,2011,??,NASRDA - Nigeria,Other
+233,Sun Synchronous,833,1986,2001,NOAA,USA
+234,Sun Synchronous,870,1988,2004,NOAA,USA
+235,Sun Synchronous,833,1991,2007,NOAA,USA
+236,Sun Synchronous,870,1994,2007,NOAA,USA
+237,Geostationary,35800,1994,2004,NOAA,USA
+238,Geostationary,35800,1995,2007,NOAA,USA
+239,Geostationary,35800,1997,2009,NOAA,USA
+240,Sun Synchronous,833,1998,??,NOAA,USA
+241,Sun Synchronous,870,2000,2014,NOAA,USA
+242,Geostationary,35800,2000,2011,NOAA,USA
+243,Geostationary,35800,2001,2013,NOAA,USA
+244,Sun Synchronous,833,2002,2013,NOAA,USA
+245,Sun Synchronous,854,2005,??,NOAA,USA
+246,Geostationary,35800,2006,2018,NOAA,USA
+247,Non Sun Synchronous,1336,2008,2019,NOAA,USA
+248,Sun Synchronous,870,2009,??,NOAA,USA
+249,Geostationary,35800,2009,??,NOAA,USA
+250,Geostationary,35800,2010,??,NOAA,USA
+251,Sun Synchronous,824,2011,??,NOAA,USA
+252,Non Sun Synchronous,1336,2016,??,NOAA,USA
+253,Geostationary,35786,2016,??,NOAA,USA
+254,Sun Synchronous,824,2017,??,NOAA,USA
+255,Geostationary,35786,2018,??,NOAA,USA
+256,Sun Synchronous,824,2022,??,NOAA,USA
+257,Geostationary,35888,2022,??,NOAA,USA
+258,Non Sun Synchronous,370,1991,1992,NPO - Mashinostroyeniya,Russia
+259,Sun Synchronous,686,2005,2013,NRSCC - China,China
+260,Sun Synchronous,863,1999,2012,NSMC - China,China
+261,Sun Synchronous,836,2008,2015,NSMC - China,China
+262,Geostationary,36000,2008,2018,NSMC - China,China
+263,Sun Synchronous,836,2010,??,NSMC - China,China
+264,Sun Synchronous,836,2013,??,NSMC - China,China
+265,Geostationary,3600,2018,??,NSMC - China,China
+266,Circular,600,1999,2004,NSPO - Taiwan,China
+267,Sun Synchronous,891,2004,2016,NSPO - Taiwan,China
+268,Circular,800,2006,2020,NSPO - Taiwan,China
+269,Sun Synchronous,720,2017,??,NSPO - Taiwan,China
+270,Circular,550,2019,??,NSPO - Taiwan,China
+271,Sun Synchronous,630,2008,2020,Planet - USA,USA
+272,Sun Synchronous,578,2013,??,Planet - USA,USA
+273,Sun Synchronous,600,2014,??,Planet - USA,USA
+274,Sun Synchronous,637,2014,??,Planet - USA,USA
+275,Sun Synchronous,400,2015,??,Planet - USA,USA
+276,Sun Synchronous,495,2016,??,Planet - USA,USA
+277,Sun Synchronous,500,2016,??,Planet - USA,USA
+278,Sun Synchronous,515,2016,??,Planet - USA,USA
+279,Sun Synchronous,455,2017,??,Planet - USA,USA
+280,Sun Synchronous,495,2017,??,Planet - USA,USA
+281,Sun Synchronous,500,2017,??,Planet - USA,USA
+282,Sun Synchronous,510,2017,??,Planet - USA,USA
+283,Sun Synchronous,485,2018,??,Planet - USA,USA
+284,Sun Synchronous,485,2018,??,Planet - USA,USA
+285,Sun Synchronous,500,2018,??,Planet - USA,USA
+286,Sun Synchronous,505,2018,??,Planet - USA,USA
+287,Sun Synchronous,585,2018,??,Planet - USA,USA
+288,Sun Synchronous,500,2019,??,Planet - USA,USA
+289,Sun Synchronous,800,1987,2008,ROSCOSMOS - Russia,Russia
+290,Sun Synchronous,678,1994,??,ROSCOSMOS - Russia,Russia
+291,Sun Synchronous,400,1996,2001,ROSCOSMOS - Russia,Russia
+292,Sun Synchronous,835,1998,??,ROSCOSMOS - Russia,Russia
+293,Non Sun Synchronous,500,2005,2006,ROSCOSMOS - Russia,Russia
+294,Non Sun Synchronous,480,2006,2016,ROSCOSMOS - Russia,Russia
+295,Sun Synchronous,510,2012,??,ROSCOSMOS - Russia,Russia
+296,Sun Synchronous,510,2018,??,ROSCOSMOS - Russia,Russia
+297,Sun Synchronous,510,2018,??,ROSCOSMOS - Russia,Russia
+298,Sun Synchronous,510,2018,??,ROSCOSMOS - Russia,Russia
+299,Sun Synchronous,510,2018,??,ROSCOSMOS - Russia,Russia
+300,Sun Synchronous,1012,2001,2006,ROSHYDROMET - Russia,Russia
+301,Sun Synchronous,832,2009,2014,ROSHYDROMET - Russia,Russia
+302,Geostationary,36000,2011,??,ROSHYDROMET - Russia,Russia
+303,Sun Synchronous,825,2014,??,ROSHYDROMET - Russia,Russia
+304,Sun Synchronous,821,2019,??,ROSHYDROMET - Russia,Russia
+305,Sun Synchronous,625,2001,??,SNSB - Sweden,EU
+306,Sun Synchronous,686,2009,??,SSTL - UK,UK
+307,Sun Synchronous,647,2015,??,SSTL - UK,UK
+308,Sun Synchronous,580,2018,??,SSTL - UK,UK
+309,Sun Synchronous,686,2003,2006,TUBITAK UZAY/STRI- Turkey,Other
+310,Sun Synchronous,700,2011,??,TUBITAK UZAY/STRI- Turkey,Other
+311,Sun Synchronous,700,2012,??,TUBITAK UZAY/STRI- Turkey,Other
+312,Sun Synchronous,686,2003,2011,UK Space Agency,UK
+313,Sun Synchronous,686,2005,2009,UK Space Agency,UK
+314,Sun Synchronous,830,2003,??,US Department of Defense,USA
+315,Sun Synchronous,575,2000,??,US Department of Energy,USA
+316,Sun Synchronous,800,1998,2008,US Naval Research Lab,USA
+317,Sun Synchronous,830,2003,??,US Naval Research Lab,USA

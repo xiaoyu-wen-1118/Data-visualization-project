@@ -1,6 +1,7 @@
 # All Satellites in Orbit <br>
 ### Author: Xiaoyu Wen
-Project Link: https://xiaoyu-wen-1118.github.io/Satellites_launch_data_visualization_dashboard/satellite.html <br>
+**Dashboard Link**: https://xiaoyu-wen-1118.github.io/Satellites_launch_data_visualization_dashboard/satellite.html <br>
+
 This is a narrative visualization implemented by the D3 library in JavaScript. The dataset
 is downloaded from https://www.kaggle.com/datasets/kkhandekar/all-the-satellites-inthe-orbit. Artificial satellite is one of the greatest innovations that human beings have
 invented. Satellites support many key elements of our modern life, including
